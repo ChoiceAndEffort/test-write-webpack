@@ -1,0 +1,17 @@
+{
+  "name": "test-write-webpack",
+  "version": "1.0.0",
+  "description": "Webpack 的打包过程可以简单地分为以下几个步骤：",
+  "main": "webpack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.23.7",
+    "@babel/parser": "^7.23.6",
+    "@babel/preset-env": "^7.23.7",
+    "@babel/traverse": "^7.23.7"
+  }
+}
